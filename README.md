@@ -1,5 +1,7 @@
 # Prodify
 
+**Live Demo:** https://prodify-omega.vercel.app/
+
 Prodify is a modern application designed for visually managing social media content and product information. It allows users to list products, perform searches, and utilize filtering options to easily find the items they are looking for. The project showcases contemporary React development practices, leveraging the latest features and libraries to create a robust and user-friendly experience.
 
 ## Technologies Used
